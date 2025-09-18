@@ -28,7 +28,7 @@ _Clean and intuitive input form with all required investment parameters_
 
 ### Results Display
 
-![Investment Results](screenshots/Screenshot%202025-09-17%20191055.png)
+![Investment Results](screenshots/Screenshot%202025-09-17%20191202.png)
 _Comprehensive year-by-year breakdown showing investment growth over time_
 
 ## �📋 Prerequisites
