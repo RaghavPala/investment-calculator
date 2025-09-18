@@ -1,6 +1,18 @@
-# 💰 Investment Calculator
+# 💰 Investment Cal- **⚡ High Performance**: Built with Angular's latest features and optimizations
 
-A modern, responsive Angular web application that helps users calculate and visualize the growth of their investments over time. Built with Angular 18 and featuring real-time calculations with an intuitive user interface.
+## ## 🔧 Available Scripts Screenshots
+
+### Application Interface
+
+![Investment Calculator Interface](screenshots/investment-calculator-interface.png)
+_Clean and intuitive input form with all required investment parameters_
+
+### Results Display
+
+![Investment Results](screenshots/investment-calculator-results.png)
+_Comprehensive year-by-year breakdown showing investment growth over time_
+
+## 📋 Prerequisitesrn, responsive Angular web application that helps users calculate and visualize the growth of their investments over time. Built with Angular 18 and featuring real-time calculations with an intuitive user interface.
 
 ## 🌟 Features
 
