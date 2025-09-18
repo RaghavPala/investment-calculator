@@ -19,7 +19,19 @@ A modern, responsive Angular web application that helps users calculate and visu
 - **📱 Mobile Friendly**: Fully responsive across all device sizes
 - **⚡ High Performance**: Built with Angular's latest features and optimizations
 
-## 📋 Prerequisites
+## � Screenshots
+
+### Application Interface
+
+![Investment Calculator Interface](screenshots/investment-calculator-interface.png)
+_Clean and intuitive input form with all required investment parameters_
+
+### Results Display
+
+![Investment Results](screenshots/investment-calculator-results.png)
+_Comprehensive year-by-year breakdown showing investment growth over time_
+
+## �📋 Prerequisites
 
 Before you begin, ensure you have the following installed:
 
